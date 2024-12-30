@@ -1,6 +1,6 @@
 # Python text-to-audio
 
-Read CSV file of text to save as audio. Add bell announcement to the start of the tts. I used it to generated audio for school announcement systems
+Read CSV file of text to save as audio. Add bell announcement to the start of the tts generated audio. I used it to generated audio for school announcement systems
 
 ## Getting Started
 
